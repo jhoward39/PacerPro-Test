@@ -19,7 +19,7 @@ This Ruby on Rails application implements a basic soft delete functionality for 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/jhoward39/PacerPro-Test.git
-   cd your-repo-name
+   cd PacerPro-Test
    ```
 
 2. **Install dependencies:**
