@@ -40,6 +40,7 @@ rails server
 Access the application at: [http://localhost:3000](http://localhost:3000)
 
 ### Running Tests
+(This is not for when the application is running)
 Execute the test suite:
 ```bash
 bundle exec rspec
